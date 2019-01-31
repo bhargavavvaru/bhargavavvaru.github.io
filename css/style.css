@@ -18,3 +18,12 @@
    background-color: rgb(220, 226, 230);
  
 }
+
+#activity {
+   border-radius: 20px;
+   width: 70%;
+   text-align: center;
+   margin: auto;
+   margin-top: 50px;
+   background-color: rgb(207, 217, 219) ; 
+}
